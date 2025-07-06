@@ -2000,7 +2000,8 @@ jobs:
           files: |
             ./appimage/rustdesk-${{ env.VERSION }}-*.AppImage
 
-    build-rustdesk-web:
+  
+  build-rustdesk-web:
     if: False
     name: build-rustdesk-web
     runs-on: ubuntu-22.04
