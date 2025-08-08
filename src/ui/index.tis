@@ -570,7 +570,9 @@ class App: Reactor.Component
 
                 <div .right-pane>
                     <div .right-content>
-
+                        
+                        </div>
+                        <MultipleSessions @{this.multipleSessions} />
                     </div>
                     <ConnectStatus @{this.connect_status} />
                 </div>
