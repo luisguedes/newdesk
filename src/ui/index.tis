@@ -573,7 +573,10 @@ class App: Reactor.Component
                         <div .card-connect>
                             <div .title>{translate('Control Remote Desktop')}</div>
                             <ID @{this.remote_id} />
-
+                            <div .right-buttons>
+                                <button .button .outline #file-transfer>{translate('Transfer file')}</button>
+                                <button .button #connect>{translate('Connect')}</button>
+                            </div>
                         </div>
                         <MultipleSessions @{this.multipleSessions} />
                     </div>
