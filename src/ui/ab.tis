@@ -39,15 +39,12 @@ class AddressBook: Reactor.Component
                 </menu>
             </popup>
             <div .left-pane>
-                <div style="padding: 0; padding-bottom: 1em" #tags-label>{translate('Tags')}{svg_menu}</div>
-                <div #tags>
-                    {ab.tags.map(function(t) {
-                        return <span class={me.selectedTags.indexOf(t) >= 0 ? "active" : "inactive"}>{t}</span>;
-                    })}
-                </div>
+                
             </div>
             <div .right-pane>
-                
+                <div .right-content style="padding-top:0; padding-right: 0;">
+                    <SessionList sessions={peers} type="ab" />
+                </div>
             </div>
         </div>;
     }
