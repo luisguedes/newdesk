@@ -48,7 +48,6 @@ class AddressBook: Reactor.Component
             </div>
             <div .right-pane>
                 
-                </div>
             </div>
         </div>;
     }
