@@ -77,9 +77,7 @@ class Body: Reactor.Component
                 </div>
                 {c.is_file_transfer || c.is_terminal || c.port_forward ? "" : <div .chaticon>{svg_chat}</div>}
             </div>
-            <div .right-panel style={right_style}>
-                {c.is_file_transfer || c.is_terminal || c.port_forward ? "" : <ChatBox msgs={c.msgs} callback={callback} />}
-            </div>
+
         </div>;
     }
 

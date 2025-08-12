@@ -40,7 +40,7 @@ div.chaticon:active {
 div.right-panel {
     background: white;
     border-left: color(border) 1px solid;
-    size: *;
+    size: 0;
 }
 
 div.icon-and-id {
