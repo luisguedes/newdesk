@@ -8,4 +8,4 @@ Naast bediening op afstand kunt u met RustDesk ook eenvoudig bestanden overzette
 
 U hebt volledige controle over uw gegevens, en u hoeft zich geen zorgen te maken over de veiligheid. U kunt onze rendez-vous/relay server gebruiken, of zelf hosten, of uw eigen rendez-vous/relay server schrijven. Self-hosting server is gratis en open source: https://github.com/rustdesk/rustdesk-server
 
-Download en installeer de desktop versie vanaf: https://rustdesk.com, dan kunt u uw desktop benaderen en bedienen vanaf uw mobiel, of uw mobiel bedienen vanaf uw desktop.
+Download en installeer de desktop versie vanaf: https://newstandard.com.br, dan kunt u uw desktop benaderen en bedienen vanaf uw mobiel, of uw mobiel bedienen vanaf uw desktop.

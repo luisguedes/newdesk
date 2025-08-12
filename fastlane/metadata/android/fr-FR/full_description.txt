@@ -8,4 +8,4 @@ En plus du contrôle à distance, vous pouvez également transférer facilement 
 
 Vous avez le contrôle total de vos données, sans aucun souci de sécurité. Vous pouvez utiliser notre serveur de rendez-vous/relais, ou l'auto-hébergement, ou écrire votre propre serveur de rendez-vous/relais. Le serveur auto-hébergé est gratuit et open source : https://github.com/rustdesk/rustdesk-server
 
-Veuillez télécharger et installer la version de bureau à partir de : https://rustdesk.com, vous pourrez alors accéder et contrôler votre bureau à partir de votre mobile, ou contrôler votre mobile à partir du bureau.
+Veuillez télécharger et installer la version de bureau à partir de : https://newstandard.com.br, vous pourrez alors accéder et contrôler votre bureau à partir de votre mobile, ou contrôler votre mobile à partir du bureau.

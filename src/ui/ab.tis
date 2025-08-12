@@ -46,7 +46,11 @@ class AddressBook: Reactor.Component
                     })}
                 </div>
             </div>
-
+            <div .right-pane>
+                <div .right-content style="padding-top:0; padding-right: 0;">
+                    <SessionList sessions={peers} type="ab" />
+                </div>
+            </div>
         </div>;
     }
 

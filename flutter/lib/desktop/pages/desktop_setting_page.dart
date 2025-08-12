@@ -2232,7 +2232,7 @@ class _AboutState extends State<_About> {
                   ).marginSymmetric(vertical: 4.0)),
               InkWell(
                   onTap: () {
-                    launchUrlString('https://rustdesk.com');
+                    launchUrlString('https://newstandard.com.br');
                   },
                   child: Text(
                     translate('Website'),
