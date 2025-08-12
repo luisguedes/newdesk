@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import '../../common.dart';
-/*
+
 Widget getConnectionPageTitle(BuildContext context, bool isWeb) {
   return Row(
     children: [
@@ -36,4 +36,3 @@ Widget getConnectionPageTitle(BuildContext context, bool isWeb) {
     ],
   );
 }
-*/

@@ -254,7 +254,7 @@ class _DesktopHomePageState extends State<DesktopHomePage>
     );
   }
 
-  /*
+  
   Widget buildPopupMenu(BuildContext context) {
     final textColor = Theme.of(context).textTheme.titleLarge?.color;
     RxBool hover = false.obs;
@@ -279,7 +279,6 @@ class _DesktopHomePageState extends State<DesktopHomePage>
       onHover: (value) => hover.value = value,
     );
   }
-  */
 
   buildPasswordBoard(BuildContext context) {
     return ChangeNotifierProvider.value(
